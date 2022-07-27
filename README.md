@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Adam (@ablank)
-- 👀 I’m interested in photography and graphic design, but I really like javascript.
-- 🌱 I’m currently learning the guts of drupal 9
-- 💞️ I’m looking to collaborate on fun projects
-- 📫 How to reach me ablank.github.io
+### Hi, I’m Adam (@ablank)
+I’m interested in photography and graphic design, but I really like javascript.
+I’m currently learning the guts of drupal 9
+looking to collaborate on fun projects
+
+Reach me: https://ablank.github.io
