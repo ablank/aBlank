@@ -1,4 +1,4 @@
 ### Hi, I’m Adam (ablank, adam_bear)
-I’m interested in hiking, skiing, and software development.
+I like to hike and ski and develop software.
 
 Reach me: https://ablank.github.io
